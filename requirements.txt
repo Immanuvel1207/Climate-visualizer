@@ -1,8 +1,8 @@
 --only-binary=:all:
 streamlit==1.32.0
-pandas==2.2.3
-numpy==2.2.5
-matplotlib==3.8.2
+pandas>=2.2.0
+numpy>=2.2.0
+matplotlib>=3.8.0
 plotly==5.15.0
 geopy==2.3.0
 folium==0.14.0
